@@ -1,0 +1,20 @@
+
+nav{
+    background-color: turquoise;
+}
+
+nav #active{
+    color:red;
+}
+
+nav li:hover{
+    background-color: yellow;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav ul{
+    text-align-last:justify;
+}
